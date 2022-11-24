@@ -1,8 +1,3 @@
-# An Task Management App using FastAPI and MongoDB
-
-Completed the Assignment with the both extra credit tasks.
-Also, have successfully run all the tests.
-
 To run, 
 
 first do 
