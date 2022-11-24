@@ -1,4 +1,4 @@
-# Waterdip-AI-Backend-Assignment
+# An Task Management App using FastAPI and MongoDB
 
 Completed the Assignment with the both extra credit tasks.
 Also, have successfully run all the tests.
